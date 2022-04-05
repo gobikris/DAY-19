@@ -1,0 +1,38 @@
+.col{
+border-radius: 20px;
+background-color: lightgray;
+margin-top: 100px;
+
+}
+input{
+    margin-bottom: 10px;
+    width: 260px;
+    padding: 25px;
+    border: none;
+    background-color: rgb(97, 120, 127);
+    border-radius: 10px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+button{
+    margin: 5px;
+    width: 50px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 25px;
+    
+}
+#equal{
+    width: 115px;
+    border-radius: 90px;
+}
+.btn:hover{
+    background-color: lightcoral;
+    color: black;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
